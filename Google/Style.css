@@ -1,0 +1,82 @@
+body{
+	background-color: #171717;
+	font-family: Arial;
+}
+h1{
+	font-family: Arial;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+a{
+	padding-right: 10px;
+	text-decoration: none;
+	color: grey;
+}
+a:hover{
+	text-decoration: underline;
+}
+p{
+	padding-top: 10px;
+	color: white;
+}
+#hero{
+	background-color: #202124;
+	padding-bottom: 60px;
+}
+#bandeau{
+	background-color: #171717;
+}
+#bandeau p{
+	text-decoration: none;
+	color: grey;
+	margin-left: 25px;
+	font-family: Verdana;
+}
+#top{
+	text-align: right;
+	padding-top: 20px;
+	text-decoration: none;
+	margin-right: 20px;
+}
+#top a{
+	color: white;
+}
+#contenu{
+	text-align: center;
+	padding-bottom: 10px;
+}
+#bottom{
+	text-align: center;
+	padding-top: 10px;
+	background-color: #171717;
+}
+#bottom a{
+	margin: 10px;
+	padding: 10px;
+
+}
+#contenu a{
+	background: #303134;
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 10px;
+}
+#contenu a:hover{
+	text-decoration: none;
+	border: 1px solid white;
+}
+input{
+	margin-bottom: 40px;
+	border-radius: 20px;
+	padding: 10px;
+	background-color: #202124;
+	border-color: grey;
+	padding-right: 300px;
+	color: white;
+}
+input:hover{
+	background-color: grey;
+	box-shadow: black;
+}
